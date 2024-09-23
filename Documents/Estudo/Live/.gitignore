@@ -1,0 +1,11 @@
+# Ignorar o diretório do ambiente virtual
+venv/
+
+# Ignorar arquivos de cache gerados pelo Python
+__pycache__/
+
+# Ignorar arquivos de compilação Python
+*.pyc
+
+# Ignorar a pasta de configuração do Streamlit (opcional)
+.streamlit/
